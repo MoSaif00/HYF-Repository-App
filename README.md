@@ -1,4 +1,4 @@
-<h1 align="center"> HackYourFuture Repository App - JS3 Module Project  👋</h1>
+<h1 align="center"> HackYourFuture Repository App - JS3 Module Project  </h1>
 
 
 > During JS3 Module at [HackYourFuture](https://www.hackyourfuture.net/) BootCamp , I have created this app as project for this module. I used fetch API to fetch the data and made it modularize with pagination feature for the contributors column 
